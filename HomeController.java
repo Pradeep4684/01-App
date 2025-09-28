@@ -20,6 +20,7 @@ public class HomeController {
 		List<String> friend = new ArrayList<String>();
 		friend.add("Shubhangi");
 		friend.add("Soham");
+		friend.add("Pradeep");
 		
 		model.addAttribute("f",friend);
 		
