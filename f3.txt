@@ -1,0 +1,6 @@
+    JIRA-105
+        String var46 = "Alpha";
+        String var47 = "Beta";
+        String var48 = "Gamma";
+        String var49 = "Delta";
+        String var50 = "Omega";
