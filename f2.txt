@@ -1,12 +1,9 @@
 hi my name is pradeep..
 
 
-
-
-
-
-
-
  JIRA-102
  double bal =100.00;
  char ch='c';
+JIRA-101
+int i=50;
+String name="Pradeep";
