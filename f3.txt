@@ -12,4 +12,5 @@
         int var4 = -56;
         int var5 = 9999;
 		
-		int num =10;
+		int num =10
+String name="Pradeep";
